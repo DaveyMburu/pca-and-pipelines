@@ -10,6 +10,8 @@ In this lab you will:
 
 - Integrate PCA in scikit-learn pipelines 
 
+# Check the index.ipynb file for my working
+
 ## The Data Science Workflow
 
 You will be following the data science workflow:
